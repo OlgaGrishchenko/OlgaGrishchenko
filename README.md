@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Olga
 
-- 📫 How to reach me: [Instagram](https://www.instagram.com/olga.grishchenko/)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/olga.grishchenko/) [LindenIn](https://www.linkedin.com/in/olga-grishchenko/)
 <!--
 **OlgaGrishchenko/OlgaGrishchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
