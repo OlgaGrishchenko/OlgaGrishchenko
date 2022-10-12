@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Olga
 
-- 📫 How to reach me: [Instagram](https://www.instagram.com/olga.grishchenko/) or [LinkenIn](https://www.linkedin.com/in/olga-grishchenko/)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/olga.grishchenko/) or [LinkedIn](https://www.linkedin.com/in/olga-grishchenko/)
 
 <details><summary>⚡ JS Projects</summary>
   
