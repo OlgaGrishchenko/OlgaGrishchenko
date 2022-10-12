@@ -4,6 +4,20 @@
 <!--
 **OlgaGrishchenko/OlgaGrishchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<details><summary>⚡ JS Projects</summary>
+  
+   1. [Trello JS](https://olgagrishchenko.github.io/trello-app/)
+   2. [To-do JS](https://olgagrishchenko.github.io/todo-app/)
+  
+</details>
+
+  <details><summary>🌱 CSS & HTML Projects</summary>
+  
+   1. [PROTOTYPES AXIT](https://olgagrishchenko.github.io/Level-3_v2.0/)
+   2. [PROTOTYPES ActiveBox](https://olgagrishchenko.github.io/first__layout/)
+  
+</details>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
