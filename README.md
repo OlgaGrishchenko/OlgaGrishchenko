@@ -2,9 +2,15 @@
 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/olga.grishchenko/) or [LinkedIn](https://www.linkedin.com/in/olga-grishchenko/)
 
+<details><summary>🚀 React JS Projects</summary>
+  
+   1. [Blogofolio](https://github.com/OlgaGrishchenko/react-app) in developing.
+  
+</details>
+
 <details><summary>⚡ JS Projects</summary>
   
-   1. [Trello JS](https://olgagrishchenko.github.io/trello-app/)
+   1. [Trello JS](https://olgagrishchenko.github.io/trello-app/) in developing
    2. [To-do JS](https://olgagrishchenko.github.io/todo-app/)
   
 </details>
