@@ -5,7 +5,6 @@
 <details><summary>🚀 React JS Projects</summary>
   
    1. [Blogofolio](https://github.com/OlgaGrishchenko/react-app) in developing.
-   2. [Social Network](https://github.com/OlgaGrishchenko/SocialNetwork) in developing.
   
 </details>
 
