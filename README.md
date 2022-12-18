@@ -5,6 +5,7 @@
 <details><summary>🚀 React JS Projects</summary>
   
    1. [Blogofolio](https://github.com/OlgaGrishchenko/react-app) in developing.
+   2. [Pixema](https://github.com/OlgaGrishchenko/Pixema) in developing.
   
 </details>
 
