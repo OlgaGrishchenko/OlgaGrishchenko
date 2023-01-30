@@ -18,7 +18,7 @@
 
   <details><summary>🌱 CSS & HTML Projects</summary>
   
-   1. [PROTOTYPES AXIT](https://olgagrishchenko.github.io/Level-3_v2.0/)
+   1. [PROTOTYPES AXIT](https://olgagrishchenko.github.io/AXIT/)
    2. [PROTOTYPES ActiveBox](https://olgagrishchenko.github.io/ActiveBox/)
   
 </details>
