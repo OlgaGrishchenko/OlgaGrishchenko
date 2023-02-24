@@ -6,7 +6,6 @@
   
    1. [Blogofolio](https://github.com/OlgaGrishchenko/Blogofolio)
    2. [Pixema](https://github.com/OlgaGrishchenko/Pixema) in developing
-   3. [BurgerStore](https://github.com/OlgaGrishchenko/BurgerStore) in developing
   
 </details>
 
