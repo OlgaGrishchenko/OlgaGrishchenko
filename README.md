@@ -23,7 +23,7 @@
   
 </details>
 
-[My CV](https://github.com/OlgaGrishchenko/My-CV/blob/main/Olga%20Grishchenko%20Frontend.pdf)
+[My CV](https://github.com/OlgaGrishchenko/My-CV/tree/main)
 
 <!--
 **OlgaGrishchenko/OlgaGrishchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
