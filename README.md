@@ -11,7 +11,7 @@
 
 <details><summary>⚡ JS Projects</summary>
   
-   1. [Trello JS](https://olgagrishchenko.github.io/trello-app/) in developing
+   1. [Trello JS](https://olgagrishchenko.github.io/trello-app/)
    2. [To-do JS](https://olgagrishchenko.github.io/todo-app/)
   
 </details>
