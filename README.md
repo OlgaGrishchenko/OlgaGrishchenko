@@ -5,7 +5,8 @@
 <details><summary>🚀 React JS Projects</summary>
   
    1. [Blogofolio](https://github.com/OlgaGrishchenko/Blogofolio)
-   2. [Pixema](https://github.com/OlgaGrishchenko/Pixema) in developing
+   2. [Pixema](https://github.com/OlgaGrishchenko/Pixema) 
+   3. [Agile Dreamers](https://github.com/OlgaGrishchenko/AgileDreamers) in developing
   
 </details>
 
